@@ -1,0 +1,17 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: rgb(4, 16, 253);
+}
+canvas
+{
+	background: rgb(147, 236, 239);
+	border-radius: 20px;
+}
+.draw_btn{
+	margin: 0;
+}
